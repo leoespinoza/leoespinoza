@@ -1,22 +1,7 @@
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
-
-
-### Hi there 👋
-
-
-
-<!--
-**leoespinoza/leoespinoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/img/dino.gif" />
+    <img alt="https://leoespinoza.github.io" src="./assets/img/dino.gif" />
+  </picture>
+</a>
